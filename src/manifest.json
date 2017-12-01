@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "LinkPrivacy",
+  "version": "1.0",
+  "description": "Remove tracking element from URL.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "https://*.google.*/*" ],
+      "js": [ "bundle.js" ],
+      "css": [ "style.css" ]
+    }
+  ],
+  "applications": {
+    "gecko": {
+      "id": "linkprivacy@newyear.sday"
+    }
+  }
+}

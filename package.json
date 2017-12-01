@@ -1,0 +1,32 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "file-loader": "^0.11.2",
+    "webpack": "^3.6.0"
+  },
+  "name": "htube",
+  "description": "Firefox extension for Youtube",
+  "version": "2.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hp93/HTube.git"
+  },
+  "keywords": [
+    "youtube",
+    "replay",
+    "loop"
+  ],
+  "author": "Hp93",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hp93/HTube/issues"
+  },
+  "homepage": "https://github.com/Hp93/HTube#readme"
+}
