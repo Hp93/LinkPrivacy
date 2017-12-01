@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/108/tags/v0.2.3/engines/ask.com/chrome/content
+END
+options.xul
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/108/tags/v0.2.3/engines/ask.com/chrome/content/options.xul
+END
+overlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/108/tags/v0.2.3/engines/ask.com/chrome/content/overlay.xul
+END
+overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/108/tags/v0.2.3/engines/ask.com/chrome/content/overlay.js
+END
+engine.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/108/tags/v0.2.3/engines/ask.com/chrome/content/engine.jsm
+END

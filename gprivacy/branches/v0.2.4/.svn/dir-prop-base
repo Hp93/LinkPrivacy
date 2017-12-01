@@ -1,0 +1,21 @@
+K 13
+svn:externals
+V 46
+wiki https://gprivacy.googlecode.com/svn/wiki
+
+K 10
+svn:ignore
+V 59
+TODO.txt
+versions
+compare
+tryme.cmd
+build.log
+tmp
+selenium
+
+K 13
+svn:mergeinfo
+V 22
+/branches/v0.2.0:69-71
+END

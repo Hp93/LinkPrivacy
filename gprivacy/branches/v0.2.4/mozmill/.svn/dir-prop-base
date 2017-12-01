@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 130
+tmp
+requestpolicy-latest-sm+fx.xpi
+requestpolicy-0.5.25b1-sm+fx.xpi
+mozmillenv.cmd
+run*_local.*
+user.js
+runbrowser_editcloned.cmd
+
+END

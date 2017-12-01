@@ -1,0 +1,10 @@
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 101
+/branches/v0.2.0/chrome/content/gprivacy.js:69-71
+/branches/v0.2.3/chrome/content/gprivacy.js:103-106
+END

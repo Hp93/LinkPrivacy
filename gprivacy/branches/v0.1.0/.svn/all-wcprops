@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/branches/v0.1.0
+END
+mkinst.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/branches/v0.1.0/mkinst.py
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/branches/v0.1.0/install.rdf
+END
+chrome.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/branches/v0.1.0/chrome.manifest
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/branches/v0.1.0/changelog.txt
+END

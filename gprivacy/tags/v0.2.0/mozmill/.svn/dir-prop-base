@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 104
+tmp
+requestpolicy-latest-sm+fx.xpi
+requestpolicy-0.5.25b1-sm+fx.xpi
+mozmillenv.cmd
+run*_local.*
+user.js
+
+END

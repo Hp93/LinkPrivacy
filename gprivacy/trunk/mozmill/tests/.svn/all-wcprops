@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/104/trunk/mozmill/tests
+END
+test_youtube.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/62/trunk/mozmill/tests/test_youtube.js
+END
+test_ask.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/64/trunk/mozmill/tests/test_ask.js
+END
+test_empty.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/62/trunk/mozmill/tests/test_empty.js
+END
+test_fixes.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/mozmill/tests/test_fixes.js
+END
+test_bing.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/64/trunk/mozmill/tests/test_bing.js
+END
+test_google_search.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/87/trunk/mozmill/tests/test_google_search.js
+END
+test_yahoo_search.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/87/trunk/mozmill/tests/test_yahoo_search.js
+END
+test_my_yahoo.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/trunk/mozmill/tests/test_my_yahoo.js
+END
+test_debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/mozmill/tests/test_debug.js
+END
+test_core.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/mozmill/tests/test_core.js
+END
+gprivacy.ini
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/trunk/mozmill/tests/gprivacy.ini
+END
+test_facebook.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/104/trunk/mozmill/tests/test_facebook.js
+END
+test_shutdown.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/mozmill/tests/test_shutdown.js
+END

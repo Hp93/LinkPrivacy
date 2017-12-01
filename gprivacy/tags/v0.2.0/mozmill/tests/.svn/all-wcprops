@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests
+END
+test_yahoo_search.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_yahoo_search.js
+END
+test_debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_debug.js
+END
+test_core.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_core.js
+END
+gprivacy.ini
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/gprivacy.ini
+END
+test_facebook.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_facebook.js
+END
+test_shutdown.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_shutdown.js
+END
+test_youtube.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_youtube.js
+END
+test_ask.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_ask.js
+END
+test_empty.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_empty.js
+END
+test_fixes.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_fixes.js
+END
+test_bing.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_bing.js
+END
+test_google_search.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/78/tags/v0.2.0/mozmill/tests/test_google_search.js
+END

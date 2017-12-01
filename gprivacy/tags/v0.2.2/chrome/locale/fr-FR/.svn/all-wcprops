@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/tags/v0.2.2/chrome/locale/fr-FR
+END
+about.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/99/tags/v0.2.2/chrome/locale/fr-FR/about.dtd
+END
+options.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/99/tags/v0.2.2/chrome/locale/fr-FR/options.dtd
+END
+overlay.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/99/tags/v0.2.2/chrome/locale/fr-FR/overlay.dtd
+END
+overlay.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/99/tags/v0.2.2/chrome/locale/fr-FR/overlay.properties
+END

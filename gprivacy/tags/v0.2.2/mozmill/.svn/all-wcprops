@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/99/tags/v0.2.2/mozmill
+END
+gprmill.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/99/tags/v0.2.2/mozmill/gprmill.py
+END
+gprtest_callbacks.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/99/tags/v0.2.2/mozmill/gprtest_callbacks.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/77/branches/v0.2.0/mozmill/lib/mozmill
+END
+stack.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/77/branches/v0.2.0/mozmill/lib/mozmill/stack.js
+END
+tabs.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/77/branches/v0.2.0/mozmill/lib/mozmill/tabs.js
+END
+modal-dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/77/branches/v0.2.0/mozmill/lib/mozmill/modal-dialog.js
+END
+assertions.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/77/branches/v0.2.0/mozmill/lib/mozmill/assertions.js
+END
+prefs.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/77/branches/v0.2.0/mozmill/lib/mozmill/prefs.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/77/branches/v0.2.0/mozmill/lib/mozmill/utils.js
+END

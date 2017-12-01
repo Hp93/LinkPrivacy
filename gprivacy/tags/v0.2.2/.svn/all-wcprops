@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/99/tags/v0.2.2
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/tags/v0.2.2/changelog.txt
+END
+xullint.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/99/tags/v0.2.2/xullint.py
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/99/tags/v0.2.2/build.sh
+END
+mkinst.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/tags/v0.2.2/mkinst.py
+END
+update.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/99/tags/v0.2.2/update.rdf
+END
+amoexit.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/99/tags/v0.2.2/amoexit.py
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/99/tags/v0.2.2/install.rdf
+END
+build.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/tags/v0.2.2/build.cmd
+END
+chrome.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/tags/v0.2.2/chrome.manifest
+END

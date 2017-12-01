@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content
+END
+prefs.xul
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/prefs.xul
+END
+overlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/overlay.xul
+END
+gpoptions.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gpoptions.js
+END
+gprivacy.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gprivacy.js
+END
+facebook.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/facebook.jsm
+END
+options.xul
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/options.xul
+END
+gpcompat.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gpcompat.jsm
+END
+gpcmdatabase.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gpcmdatabase.jsm
+END
+gpnullmon.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gpnullmon.jsm
+END
+google.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/google.jsm
+END
+yahoo.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/yahoo.jsm
+END
+bing.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/bing.jsm
+END
+gpengines.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gpengines.jsm
+END
+gpchangemon.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gpchangemon.jsm
+END
+gputils.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/gputils.jsm
+END
+about.xul
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/about.xul
+END
+youtube.jsm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/99/tags/v0.2.2/chrome/content/youtube.jsm
+END
